@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
 ![Last Commit](https://img.shields.io/badge/Git-Documentation-blue)
@@ -74,3 +75,8 @@ K.R. Mangalam University, Gurugram# My First Repository
 
 ## Description
 CSE103 lab repository — LAB 3.	
+=======
+git pull
+cat README.md
+git log --oneline
+>>>>>>> d9658e1823fb18189a30dafaed51bd39b6add161
